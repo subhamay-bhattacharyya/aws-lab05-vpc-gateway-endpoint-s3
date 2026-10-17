@@ -13,7 +13,7 @@
 [![Files](https://img.shields.io/github/directory-file-count/subhamay-bhattacharyya/aws-lab05-vpc-gateway-endpoint-s3)](https://github.com/subhamay-bhattacharyya/aws-lab05-vpc-gateway-endpoint-s3)&nbsp;[![Repo Size](https://img.shields.io/github/repo-size/subhamay-bhattacharyya/aws-lab05-vpc-gateway-endpoint-s3)](https://github.com/subhamay-bhattacharyya/aws-lab05-vpc-gateway-endpoint-s3)&nbsp;[![Release Date](https://img.shields.io/github/release-date/subhamay-bhattacharyya/aws-lab05-vpc-gateway-endpoint-s3)](https://github.com/subhamay-bhattacharyya/aws-lab05-vpc-gateway-endpoint-s3/releases)
 
 <!-- Row 5: Custom Metrics -->
-[![Custom Endpoint](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/5a8d5448a7497dc7852e15ab8042205/raw/aws-lab05-vpc-gateway-endpoint-s3.json)](https://gist.github.com/subhamay-bhattacharyya/5a8d5448a7497dc7852e15ab8042205)
+[![Custom Endpoint](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/5a8d5448a7497dc7852e15ab80422051/raw/aws-lab05-vpc-gateway-endpoint-s3.json)](https://gist.github.com/subhamay-bhattacharyya/5a8d5448a7497dc7852e15ab80422051)
 
 ---
 
