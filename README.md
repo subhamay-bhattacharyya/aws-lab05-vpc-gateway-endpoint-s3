@@ -1,4 +1,4 @@
-# CloudFormation S3 Template Repository
+# AWS Networking Lab 05: VPC Gateway Endpoint for S3
 
 <!-- Row 1: Status - Most Important -->
 [![Release](https://img.shields.io/github/v/release/subhamay-bhattacharyya/aws-lab05-vpc-gateway-endpoint-s3?label=Release)](https://github.com/subhamay-bhattacharyya/aws-lab05-vpc-gateway-endpoint-s3/releases)&nbsp;[![Release Workflow](https://github.com/subhamay-bhattacharyya/aws-lab05-vpc-gateway-endpoint-s3/actions/workflows/ci.yaml/badge.svg)](https://github.com/subhamay-bhattacharyya/aws-lab05-vpc-gateway-endpoint-s3/actions/workflows/ci.yaml)&nbsp;[![Issues](https://img.shields.io/github/issues/subhamay-bhattacharyya/aws-lab05-vpc-gateway-endpoint-s3)](https://github.com/subhamay-bhattacharyya/aws-lab05-vpc-gateway-endpoint-s3/issues)&nbsp;[![Last Commit](https://img.shields.io/github/last-commit/subhamay-bhattacharyya/aws-lab05-vpc-gateway-endpoint-s3)](https://github.com/subhamay-bhattacharyya/aws-lab05-vpc-gateway-endpoint-s3/commits)
